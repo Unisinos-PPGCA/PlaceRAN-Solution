@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rus
+  namespace: default
+  labels:
+    ran-placer: "rus"
+data:
+  rus: |
+    {
+      "docker-desktop": {
+          "RU": 1
+      }
+    }
