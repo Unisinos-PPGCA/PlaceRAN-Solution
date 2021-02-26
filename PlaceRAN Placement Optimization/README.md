@@ -1,4 +1,4 @@
-# NG-RAN-model
+# PlaceRAN Placement Optimization
 
 Before run make sure you have all the dependencies installed:
 
