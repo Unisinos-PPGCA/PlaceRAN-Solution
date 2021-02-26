@@ -8,10 +8,9 @@ The PlaceRAN Orchestrator is composed of the following components:
 
 1. Controller (RANPlacer): Manages the placement execution and the RANDeployer creation.
 2. Executor (RANDeployer): Manages the life cycle of the Virtual Network Functions (VNFs).
-3. Network Topology: Describes the network topology where the VNFs will be placed.
-4. Optimizer: Compound for Scheduler Manager and Algorithm Jobs.
-   4.1 Scheduler Manager: Manages the algorithm's executions.
-   4.2 Algorithm Jobs: Execute the placement algorithms and store the results.
+3. Optimizer: Compound for Scheduler Manager and Algorithm Jobs.
+   3.1 Scheduler Manager: Manages the algorithm's executions.
+   3.2 Algorithm Jobs: Execute the placement algorithms and store the results.
 
 
 ### Controller (RANPlacer)
