@@ -48,7 +48,5 @@ for the modeling execution. The input is composed of the following information:
 
 ## Prototype Details
 
-The architecture is implemented on top of K8S, and for prototyping purposes,
-the persistence layer will take advantage of K8S config map resources, avoiding
-the complexity of managing a Database. It soon may be necessary to switch to
-a proper database.
+The architecture is implemented on top of K8S and with the development of Controller and Executor K8S operators.
+Besides of emulating de RAN with OAI and Core with Free5GC.
