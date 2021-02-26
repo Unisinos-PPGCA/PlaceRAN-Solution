@@ -2,7 +2,7 @@
 
 ## Overview
 
- ![PlaceRAN Solution Architecture](docs/PlaceRAN_Prototype.png)
+ ![PlaceRAN Orchestrator](docs/PlaceRAN_Prototype.png)
 
 The RANPlacer architecture is composed of the following components:
 
